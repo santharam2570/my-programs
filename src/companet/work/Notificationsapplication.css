@@ -1,0 +1,14 @@
+.mathi{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+    height: 100%;
+    width: 100vw;
+    background-color: aqua;
+    background-repeat: no-repeat;
+
+}
+.not{
+    color: black;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
